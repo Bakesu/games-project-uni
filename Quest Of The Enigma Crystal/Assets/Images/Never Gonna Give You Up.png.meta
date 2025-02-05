@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: fdf4fd02800516f4aa323da49161e402
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7378379922961432220
+    second: Never Gonna Give You Up_0
+  - first:
+      213: -4661486516722636328
+    second: Never Gonna Give You Up_1
+  - first:
+      213: 2616208846686434977
+    second: Never Gonna Give You Up_2
+  - first:
+      213: 3132301762778516816
+    second: Never Gonna Give You Up_3
+  - first:
+      213: 7479056109713151069
+    second: Never Gonna Give You Up_4
+  - first:
+      213: -8522844642160536963
+    second: Never Gonna Give You Up_5
+  - first:
+      213: -9123084398681737311
+    second: Never Gonna Give You Up_6
+  - first:
+      213: 6179668573844776016
+    second: Never Gonna Give You Up_7
+  - first:
+      213: -2881851587378124635
+    second: Never Gonna Give You Up_8
+  - first:
+      213: 8697250095162848016
+    second: Never Gonna Give You Up_9
+  - first:
+      213: -3294061670806325882
+    second: Never Gonna Give You Up_10
+  - first:
+      213: -4992647699769667817
+    second: Never Gonna Give You Up_11
+  - first:
+      213: 6603683289014714287
+    second: Never Gonna Give You Up_12
+  - first:
+      213: 1980460995277552556
+    second: Never Gonna Give You Up_13
+  - first:
+      213: 107690431498456068
+    second: Never Gonna Give You Up_14
+  - first:
+      213: -941325615290291994
+    second: Never Gonna Give You Up_15
+  - first:
+      213: 2298452070911597822
+    second: Never Gonna Give You Up_16
+  - first:
+      213: 5535436250382908527
+    second: Never Gonna Give You Up_17
+  - first:
+      213: -4354892953695475047
+    second: Never Gonna Give You Up_18
+  - first:
+      213: 2405850344030190741
+    second: Never Gonna Give You Up_19
+  - first:
+      213: -329876153167980953
+    second: Never Gonna Give You Up_20
+  - first:
+      213: 8315926111487164385
+    second: Never Gonna Give You Up_21
+  - first:
+      213: -4980338014632356261
+    second: Never Gonna Give You Up_22
+  - first:
+      213: 5651187921945798287
+    second: Never Gonna Give You Up_23
+  - first:
+      213: 7763462040385041447
+    second: Never Gonna Give You Up_24
+  - first:
+      213: 7395558161515695909
+    second: Never Gonna Give You Up_25
+  - first:
+      213: 1367549643172280491
+    second: Never Gonna Give You Up_26
+  - first:
+      213: 334888360451115030
+    second: Never Gonna Give You Up_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461820a6d8aba9990800000000000000
+      internalID: -7378379922961432220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 762
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9697de5b21f4fb0800000000000000
+      internalID: -4661486516722636328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 762
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6baf4b514ae4420800000000000000
+      internalID: 2616208846686434977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 762
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d4ebb8bdb287b20800000000000000
+      internalID: 3132301762778516816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_4
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 762
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54daa2f7e1fac760800000000000000
+      internalID: 7479056109713151069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_5
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 762
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d721e2434f5c8b980800000000000000
+      internalID: -8522844642160536963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_6
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 762
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7baa8531b446180800000000000000
+      internalID: -9123084398681737311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a9ad93d792c550800000000000000
+      internalID: 6179668573844776016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 508
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86eeeff3b9108d0800000000000000
+      internalID: -2881851587378124635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 508
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013f9eca1e6d2b870800000000000000
+      internalID: 8697250095162848016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_10
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 508
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685fb53fc542942d0800000000000000
+      internalID: -3294061670806325882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_11
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 508
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fce868e5d86bab0800000000000000
+      internalID: -4992647699769667817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_12
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 508
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb7eaa6fef4ab50800000000000000
+      internalID: 6603683289014714287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_13
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 508
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf80348c20c7b10800000000000000
+      internalID: 1980460995277552556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c8c2b70e79e7100800000000000000
+      internalID: 107690431498456068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 254
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e865aa175dbfe2f0800000000000000
+      internalID: -941325615290291994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 254
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc52f31bfdb5ef10800000000000000
+      internalID: 2298452070911597822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_17
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 254
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb4e411f1d1dc40800000000000000
+      internalID: 5535436250382908527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 254
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a212c8eef4093c0800000000000000
+      internalID: -4354892953695475047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_19
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 254
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cbba2242c436120800000000000000
+      internalID: 2405850344030190741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_20
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 254
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766dc8ee26b0c6bf0800000000000000
+      internalID: -329876153167980953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef769d1dba186370800000000000000
+      internalID: 8315926111487164385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56d67076f842eab0800000000000000
+      internalID: -4980338014632356261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_23
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86ae86497d0d6e40800000000000000
+      internalID: 5651187921945798287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_24
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243168d79b5dbb60800000000000000
+      internalID: 7763462040385041447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_25
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f42ece6fc42a660800000000000000
+      internalID: 7395558161515695909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_26
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8fef5a7238af210800000000000000
+      internalID: 1367549643172280491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Never Gonna Give You Up_27
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 306
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6180a148033c5a400800000000000000
+      internalID: 334888360451115030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
