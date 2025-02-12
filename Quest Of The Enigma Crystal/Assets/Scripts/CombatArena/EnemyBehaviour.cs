@@ -203,49 +203,6 @@ public class EnemyBehaviour : MonoBehaviour
         unitManager.AttackAction(unit, target);
     }
 
-
-    ////Calculate the best possible move for enemy unit based on tile values
-    //internal void CalculateEnemyBestMove()
-    //{
-    //    var tilesInMovementRange = pathFinder.CalculatePossibleMoves(targetToMoveTo, unitManager.selectedUnit.GetComponent<Character>().moveDistance);
-    //    bool moveFound = false;
-    //    //Create a scenario for each tile in movement range
-    //    var scenario = new Scenario();
-    //    foreach (var tile in tilesInMovementRange)
-    //    {
-    //        //Define the scenario value for each tile
-    //        var tempScenario = DefineTileScenarioValue(tile);
-    //        //If the scenario value is higher than the current scenario value, then it is a better tile
-    //        if (tempScenario != null && tempScenario.scenarioValue > scenario.scenarioValue)
-    //        {
-    //            scenario = tempScenario;
-    //            moveFound = true;
-    //        }
-    //        //handle the case for when there are two tiles with the same value and keep the one that uses less steps
-    //        if (tempScenario.unitPosition != null && tempScenario.scenarioValue == scenario.scenarioValue)
-    //        {
-    //            //count the steps towards the closest enemy unit
-    //            moveFound = true;
-    //            var tempSteps = pathFinder.CalculatePossibleMoves(tempScenario.unitPosition, unitManager.selectedUnit.GetComponent<Character>().moveDistance).Count;
-    //            var scenarioSteps = pathFinder.CalculatePossibleMoves(scenario.unitPosition, unitManager.selectedUnit.GetComponent<Character>().moveDistance).Count;
-
-    //            if (tempSteps < scenarioSteps)
-    //            {
-    //                scenario = tempScenario;
-    //            }
-    //        }
-    //        //If there are no attackable units in range, move to the tile closest to the lowest health ally unit in range
-    //        if (tempScenario.unitPosition == null && !moveFound)
-    //        {
-    //            scenario = AttackLowestHealthStrategy();
-    //        }
-
-
-    //    }
-    //    var TilesInAttackRange = pathFinder.CalculatePossibleMoves(targetToMoveTo, unitManager.selectedUnit.GetComponent<Character>().attackDistance);
-    //    //var bestMove = pathFinder.GetBestMove(selectedUnitPosition.Value, nearbyEnemies);
-
-    //}
     private Scenario AttackLowestHealthStrategy()
     {
         throw new NotImplementedException();

@@ -6,3 +6,7 @@ This game project is a barebones version of the envisioned project showcasing a 
 
 ## My Contribution
 Throughout development the team helped each other across the different sections of the project to ensure a cohesion and integration. My main contribution to this project has been in the development of the [combat arena](./Assets/Scripts/combatarena). 
+
+## Notable Scripts
+- **PathFinder.cs**: Contains the logic for calculating possible moves, validating moves, and finding paths for units in the combat arena. [PathFinder.cs](./Assets/Scripts/CombatArena/PathFinder.cs)
+- **UnitManager.cs**: Manages the units in the combat arena, including their movement, actions, and interactions. [UnitManager.cs](./Assets/Scripts/CombatArena/UnitManager.cs)
